@@ -1,0 +1,5 @@
+''ip''SMP40.aternos.me''
+''port''34832''
+''name''SMP40''
+
+
